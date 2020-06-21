@@ -15,7 +15,7 @@ Once the frontal face image is obtained, it is passed through the network to obt
 
 ![Flow1](https://github.com/muhammedsalihk/Facial-Recognition-using-OpenCV/blob/master/Images/Flow%201.png)
 
-![Flow2](https://github.com/muhammedsalihk/Facial-Recognition-using-OpenCV/blob/master/Images/Flow%202.png)
+![Flow2](https://github.com/muhammedsalihk/Facial-Recognition-using-OpenCV/blob/master/Images/Flow2.png)
 
 ## Files
 
