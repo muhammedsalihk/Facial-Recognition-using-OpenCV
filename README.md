@@ -9,7 +9,7 @@ In this project, we build a facial recognition system using OpenCV to detect the
 
 
 ## Methodology
-The images are captured from a live webcam feed on which the faces are detected and localised using the haar face cascades provided in the open CV package. To ensure stable images are captured, the system waits for atleast 20 frames in which it detects an image before the facial recognition process is initiated.
+The images are captured from a live webcam feed on which the faces are detected and localised using the haar face cascades provided in the open CV package. To ensure stable images are captured, the system waits for atleast 20 frames in which it detects an face before the facial recognition process is initiated.
 
 Once the frontal face image is obtained, it is passed through the network to obtain the embedding. This embedding is then checked against the embeddings of the images stored in the database. Based on a criterion for minimum similarity, the best match is reported.
 
